@@ -1,9 +1,9 @@
 ---
 title: About
 descrption: About me page
-draft: true
 slug: about
 date: 2024-12-11
+draft: false
 ---
 
 ## Who am I?

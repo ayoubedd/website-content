@@ -7,7 +7,7 @@ tags:
   - tutorial
 publishDate: 2024-01-01
 slug: example
-draft: true
+draft: false
 ---
 
 ## Heading 2
